@@ -3,7 +3,7 @@ When the code runs, this kind of interface is seen:
 
 ![image](https://github.com/HimanshuDekate/Complaint-Management-System-using-Python/assets/88728439/c38e7453-4043-4823-9a74-81bfbac73128)
 
-The entries are like this:
+The entries are like this whgich are submitted by clicking the Submit This button:
 
 ![image](https://github.com/HimanshuDekate/Complaint-Management-System-using-Python/assets/88728439/20175a68-525b-432f-8fd5-d5591ecfede5)
 
